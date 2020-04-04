@@ -88,3 +88,9 @@
     Drawing files
     AutoCAD (.dwg) up to 2018
     DXF (.dxf) up to 2013
+
+---How to measure in OnShape?-------------------------------------------------
+
+    Click on element to be measured (say, line or surface). At the bottom right you will see the associated measure, for example, if you click on a line, you will see the length. If you select two elements simultaneously, you will see measures relevant to the relation between these two elements. An up arrow button near the measurement can be clicked to show more info. Here is an article for reference.
+
+https://www.onshape.com/cad-blog/tech-tip-how-to-use-onshapes-measure-tool
